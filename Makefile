@@ -1,4 +1,4 @@
-NAME=udemy-ml-api
+NAME=house-prices-udemy
 COMMIT_ID=$(shell git rev-parse HEAD)
 
 
